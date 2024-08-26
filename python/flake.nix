@@ -16,6 +16,7 @@
         packages = with pkgs; [
           thonny
           python3
+          pyright
         ];
       };
     }
